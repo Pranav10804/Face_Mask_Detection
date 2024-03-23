@@ -12,6 +12,7 @@ Therefore, this model is trained on a self-created dataset whoich contains:
  1. Images of bearded men to help the model cope with the first problem.
  2. Images of women in veils and transparent face covers rather than masks.
  3. Images of large crowds with both masked and unmasked people.
+ 
 To do justice to the dataset, yolov7 is used. But, at the same time, prevention of overfitting through augmentations and regularization is implemented.
 
 ### Dataset
