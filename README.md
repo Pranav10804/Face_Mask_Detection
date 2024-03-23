@@ -14,6 +14,7 @@ Therefore, this model is trained on a self-created dataset whoich contains:
  3. Images of large crowds with both masked and unmasked people.
  
 To do justice to the dataset, yolov7 is used. But, at the same time, prevention of overfitting through augmentations and regularization is implemented.
+Annotations done using Roboflow
 
 ### Dataset
 https://universe.roboflow.com/pranav-gupta-eqnfm/face-mask-detection-56hot
