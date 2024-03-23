@@ -1,6 +1,6 @@
 # CW_M_Task1
 ## Face Mask Detection
-Fine Tuning YOLOv7 to detect people weariing face masks. 
+Fine Tuning YOLOv7 to detect people wearing face masks. 
 ### Problems
 1. Most models trained for face mask detection find it difficult to differetiate face masks and thick beards.
 2. Confusion in models regarding face masks and veils( prominent in countries like India )
